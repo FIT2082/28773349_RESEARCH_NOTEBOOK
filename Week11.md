@@ -5,7 +5,7 @@ This week we finished the app. After we lost last week's components and game obj
 Andrew also added in a score bar, and with Dr Kirsten's suggestion, we may collect data concerning the accuracy with which user's make the signs. This will be intersting to add to our report. 
 
 ### Ethics
-After mulitple rejections, our ethics application was finally approved. This means that next week we can commence our user study. (If you would like to participate in our study, let us know. Pls.)
+After mulitple rejections, our ethics application was finally approved. This means that next week we can commence our user study.
 
 ### Poster and report
 We will begin to work on the report and continue working on the poster this week, while we conduct the user testing. We may not be able to put the results of the study on the poster, but they will be definitely be included in the report. 
